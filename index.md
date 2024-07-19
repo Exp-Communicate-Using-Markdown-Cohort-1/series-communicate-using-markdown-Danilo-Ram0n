@@ -6,6 +6,6 @@ $ git init
 Initialized empty Git repository in back/run/runrun/runrunrun
 ```
 
-- [x] List
-- [x] of
-- [x] Things
+- [ ] gimme
+- [ ] gimme
+- [ ] love
